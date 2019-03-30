@@ -1,0 +1,1401 @@
+1553931380407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6kgEMuGnl9wW"
+
+(firefox:12105): Gtk-WARNING **: 13:06:20.452: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:12105): Gtk-WARNING **: 13:06:20.452: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:12105): Gtk-WARNING **: 13:06:20.457: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:12105): Gtk-WARNING **: 13:06:20.457: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:12105): Gtk-WARNING **: 13:06:20.457: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:12105): Gtk-WARNING **: 13:06:20.458: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553931380760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553931380760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553931380760	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:12256): Gtk-WARNING **: 13:06:22.672: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:12256): Gtk-WARNING **: 13:06:22.672: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:12256): Gtk-WARNING **: 13:06:22.677: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12256): Gtk-WARNING **: 13:06:22.677: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12256): Gtk-WARNING **: 13:06:22.677: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:12256): Gtk-WARNING **: 13:06:22.678: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:12278): Gtk-WARNING **: 13:06:22.792: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:12278): Gtk-WARNING **: 13:06:22.792: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:12278): Gtk-WARNING **: 13:06:22.798: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12278): Gtk-WARNING **: 13:06:22.798: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12278): Gtk-WARNING **: 13:06:22.798: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:12278): Gtk-WARNING **: 13:06:22.799: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553931383703	Marionette	INFO	Listening on port 37737
+1553931383724	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12357): Gtk-WARNING **: 13:06:23.778: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:12357): Gtk-WARNING **: 13:06:23.778: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:12357): Gtk-WARNING **: 13:06:23.784: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12357): Gtk-WARNING **: 13:06:23.784: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12357): Gtk-WARNING **: 13:06:23.784: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:12357): Gtk-WARNING **: 13:06:23.784: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553936871309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AE6lhGVabBvl"
+
+(firefox:5366): Gtk-WARNING **: 14:37:52.671: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:5366): Gtk-WARNING **: 14:37:52.671: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:5366): Gtk-WARNING **: 14:37:52.678: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:5366): Gtk-WARNING **: 14:37:52.678: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:5366): Gtk-WARNING **: 14:37:52.678: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:5366): Gtk-WARNING **: 14:37:52.679: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553936875724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553936875724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553936875724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5573): Gtk-WARNING **: 14:37:58.923: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:5573): Gtk-WARNING **: 14:37:58.923: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:5573): Gtk-WARNING **: 14:37:58.929: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5573): Gtk-WARNING **: 14:37:58.929: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5573): Gtk-WARNING **: 14:37:58.929: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:5573): Gtk-WARNING **: 14:37:58.929: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:5611): Gtk-WARNING **: 14:37:59.278: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:5611): Gtk-WARNING **: 14:37:59.278: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:5611): Gtk-WARNING **: 14:37:59.283: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5611): Gtk-WARNING **: 14:37:59.283: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5611): Gtk-WARNING **: 14:37:59.284: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:5611): Gtk-WARNING **: 14:37:59.284: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:5677): Gtk-WARNING **: 14:38:01.390: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:5677): Gtk-WARNING **: 14:38:01.390: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:5677): Gtk-WARNING **: 14:38:01.396: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5677): Gtk-WARNING **: 14:38:01.396: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:5677): Gtk-WARNING **: 14:38:01.396: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:5677): Gtk-WARNING **: 14:38:01.396: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553936881663	Marionette	INFO	Listening on port 37489
+1553936881781	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 5366, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5366, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553939403460	Marionette	INFO	Stopped listening on port 37489
+1553939435635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5hprsPuwiUtU"
+
+(firefox:8938): Gtk-WARNING **: 15:20:35.673: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:8938): Gtk-WARNING **: 15:20:35.673: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:8938): Gtk-WARNING **: 15:20:35.678: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:8938): Gtk-WARNING **: 15:20:35.678: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:8938): Gtk-WARNING **: 15:20:35.678: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:8938): Gtk-WARNING **: 15:20:35.679: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553939435952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553939435952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553939435952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9080): Gtk-WARNING **: 15:20:38.542: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:9080): Gtk-WARNING **: 15:20:38.542: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:9080): Gtk-WARNING **: 15:20:38.548: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9080): Gtk-WARNING **: 15:20:38.548: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9080): Gtk-WARNING **: 15:20:38.548: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:9080): Gtk-WARNING **: 15:20:38.548: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:9103): Gtk-WARNING **: 15:20:38.662: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:9103): Gtk-WARNING **: 15:20:38.662: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:9103): Gtk-WARNING **: 15:20:38.668: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9103): Gtk-WARNING **: 15:20:38.668: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9103): Gtk-WARNING **: 15:20:38.668: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:9103): Gtk-WARNING **: 15:20:38.668: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553939439423	Marionette	INFO	Listening on port 40801
+1553939439450	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9188): Gtk-WARNING **: 15:20:39.564: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:9188): Gtk-WARNING **: 15:20:39.564: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:9188): Gtk-WARNING **: 15:20:39.569: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9188): Gtk-WARNING **: 15:20:39.569: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9188): Gtk-WARNING **: 15:20:39.569: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:9188): Gtk-WARNING **: 15:20:39.570: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+(/usr/lib/firefox/firefox:9572): Gtk-WARNING **: 15:23:34.589: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:9572): Gtk-WARNING **: 15:23:34.589: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:9572): Gtk-WARNING **: 15:23:34.597: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9572): Gtk-WARNING **: 15:23:34.597: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9572): Gtk-WARNING **: 15:23:34.597: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:9572): Gtk-WARNING **: 15:23:34.597: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553939784021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Sjsa0yOcK5W3"
+
+(firefox:9846): Gtk-WARNING **: 15:26:24.071: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:9846): Gtk-WARNING **: 15:26:24.071: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:9846): Gtk-WARNING **: 15:26:24.077: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:9846): Gtk-WARNING **: 15:26:24.077: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:9846): Gtk-WARNING **: 15:26:24.077: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:9846): Gtk-WARNING **: 15:26:24.077: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553939784351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553939784351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553939784351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9996): Gtk-WARNING **: 15:26:30.784: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:9996): Gtk-WARNING **: 15:26:30.784: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:9996): Gtk-WARNING **: 15:26:30.790: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9996): Gtk-WARNING **: 15:26:30.790: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:9996): Gtk-WARNING **: 15:26:30.790: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:9996): Gtk-WARNING **: 15:26:30.790: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:10017): Gtk-WARNING **: 15:26:30.900: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:10017): Gtk-WARNING **: 15:26:30.900: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:10017): Gtk-WARNING **: 15:26:30.906: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10017): Gtk-WARNING **: 15:26:30.906: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10017): Gtk-WARNING **: 15:26:30.906: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:10017): Gtk-WARNING **: 15:26:30.907: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553939793865	Marionette	INFO	Listening on port 43681
+[Parent 8938, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8938, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8938, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+(/usr/lib/firefox/firefox:10091): Gtk-WARNING **: 15:26:33.958: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:10091): Gtk-WARNING **: 15:26:33.958: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:10091): Gtk-WARNING **: 15:26:33.963: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10091): Gtk-WARNING **: 15:26:33.963: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10091): Gtk-WARNING **: 15:26:33.963: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:10091): Gtk-WARNING **: 15:26:33.964: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553939793967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553939795581	Marionette	INFO	Stopped listening on port 40801
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Parent 9846, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 9846, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1553939797985	Marionette	INFO	Stopped listening on port 43681
+1553939799794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x3VeyQ6GcPL7"
+
+(firefox:10149): Gtk-WARNING **: 15:26:39.845: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:10149): Gtk-WARNING **: 15:26:39.845: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:10149): Gtk-WARNING **: 15:26:39.851: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:10149): Gtk-WARNING **: 15:26:39.851: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:10149): Gtk-WARNING **: 15:26:39.851: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:10149): Gtk-WARNING **: 15:26:39.851: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553939800122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553939800122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553939800122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:10307): Gtk-WARNING **: 15:26:46.111: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:10307): Gtk-WARNING **: 15:26:46.111: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:10307): Gtk-WARNING **: 15:26:46.117: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10307): Gtk-WARNING **: 15:26:46.117: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10307): Gtk-WARNING **: 15:26:46.117: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:10307): Gtk-WARNING **: 15:26:46.117: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:10328): Gtk-WARNING **: 15:26:46.226: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:10328): Gtk-WARNING **: 15:26:46.226: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:10328): Gtk-WARNING **: 15:26:46.232: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10328): Gtk-WARNING **: 15:26:46.232: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10328): Gtk-WARNING **: 15:26:46.232: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:10328): Gtk-WARNING **: 15:26:46.232: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:10401): Gtk-WARNING **: 15:26:48.379: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:10401): Gtk-WARNING **: 15:26:48.379: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+1553939808381	Marionette	INFO	Listening on port 44595
+
+(/usr/lib/firefox/firefox:10401): Gtk-WARNING **: 15:26:48.384: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10401): Gtk-WARNING **: 15:26:48.384: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:10401): Gtk-WARNING **: 15:26:48.384: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:10401): Gtk-WARNING **: 15:26:48.385: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553939808437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://en.vietnamexport.com/index.php/component/k2/itemlist/category/63-machine-and-equipment.html, line 19: TypeError: window.addEvent is not a function
+1553940237299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ok71fcELbhSC"
+
+(firefox:11009): Gtk-WARNING **: 15:33:57.345: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:11009): Gtk-WARNING **: 15:33:57.345: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:11009): Gtk-WARNING **: 15:33:57.351: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:11009): Gtk-WARNING **: 15:33:57.351: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:11009): Gtk-WARNING **: 15:33:57.351: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:11009): Gtk-WARNING **: 15:33:57.351: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553940237624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553940237625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553940237625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:11167): Gtk-WARNING **: 15:34:00.119: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:11167): Gtk-WARNING **: 15:34:00.119: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:11167): Gtk-WARNING **: 15:34:00.125: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11167): Gtk-WARNING **: 15:34:00.125: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11167): Gtk-WARNING **: 15:34:00.125: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:11167): Gtk-WARNING **: 15:34:00.126: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:11190): Gtk-WARNING **: 15:34:00.235: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:11190): Gtk-WARNING **: 15:34:00.235: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:11190): Gtk-WARNING **: 15:34:00.241: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11190): Gtk-WARNING **: 15:34:00.241: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11190): Gtk-WARNING **: 15:34:00.241: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:11190): Gtk-WARNING **: 15:34:00.241: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553940241016	Marionette	INFO	Listening on port 42107
+
+(/usr/lib/firefox/firefox:11266): Gtk-WARNING **: 15:34:01.137: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:11266): Gtk-WARNING **: 15:34:01.137: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:11266): Gtk-WARNING **: 15:34:01.143: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11266): Gtk-WARNING **: 15:34:01.143: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11266): Gtk-WARNING **: 15:34:01.143: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:11266): Gtk-WARNING **: 15:34:01.143: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553940241146	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 11009, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11009, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553940846976	Marionette	INFO	Stopped listening on port 42107
+1553940848692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QafqLMY5uU61"
+
+(firefox:11716): Gtk-WARNING **: 15:44:08.728: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:11716): Gtk-WARNING **: 15:44:08.728: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:11716): Gtk-WARNING **: 15:44:08.734: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:11716): Gtk-WARNING **: 15:44:08.734: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:11716): Gtk-WARNING **: 15:44:08.734: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:11716): Gtk-WARNING **: 15:44:08.734: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553940850321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553940850321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553940850321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:11883): Gtk-WARNING **: 15:44:13.448: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:11883): Gtk-WARNING **: 15:44:13.448: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:11883): Gtk-WARNING **: 15:44:13.454: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11883): Gtk-WARNING **: 15:44:13.454: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11883): Gtk-WARNING **: 15:44:13.454: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:11883): Gtk-WARNING **: 15:44:13.454: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:11904): Gtk-WARNING **: 15:44:13.585: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:11904): Gtk-WARNING **: 15:44:13.585: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:11904): Gtk-WARNING **: 15:44:13.591: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11904): Gtk-WARNING **: 15:44:13.591: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11904): Gtk-WARNING **: 15:44:13.591: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:11904): Gtk-WARNING **: 15:44:13.592: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553940854415	Marionette	INFO	Listening on port 40635
+
+(/usr/lib/firefox/firefox:11983): Gtk-WARNING **: 15:44:14.482: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:11983): Gtk-WARNING **: 15:44:14.482: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:11983): Gtk-WARNING **: 15:44:14.488: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11983): Gtk-WARNING **: 15:44:14.488: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:11983): Gtk-WARNING **: 15:44:14.488: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:11983): Gtk-WARNING **: 15:44:14.488: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553940854854	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11716, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11716, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553940929499	Marionette	INFO	Stopped listening on port 40635
+1553940934414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SkUFMJoZDz4m"
+
+(firefox:12264): Gtk-WARNING **: 15:45:34.449: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:12264): Gtk-WARNING **: 15:45:34.449: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:12264): Gtk-WARNING **: 15:45:34.454: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:12264): Gtk-WARNING **: 15:45:34.454: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:12264): Gtk-WARNING **: 15:45:34.454: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:12264): Gtk-WARNING **: 15:45:34.455: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553940935636	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553940935637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553940935637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:12428): Gtk-WARNING **: 15:45:41.126: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:12428): Gtk-WARNING **: 15:45:41.126: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:12428): Gtk-WARNING **: 15:45:41.132: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12428): Gtk-WARNING **: 15:45:41.132: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12428): Gtk-WARNING **: 15:45:41.132: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:12428): Gtk-WARNING **: 15:45:41.132: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:12449): Gtk-WARNING **: 15:45:41.242: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:12449): Gtk-WARNING **: 15:45:41.242: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:12449): Gtk-WARNING **: 15:45:41.248: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12449): Gtk-WARNING **: 15:45:41.248: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12449): Gtk-WARNING **: 15:45:41.248: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:12449): Gtk-WARNING **: 15:45:41.249: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:12530): Gtk-WARNING **: 15:45:43.648: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:12530): Gtk-WARNING **: 15:45:43.648: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:12530): Gtk-WARNING **: 15:45:43.654: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12530): Gtk-WARNING **: 15:45:43.654: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:12530): Gtk-WARNING **: 15:45:43.654: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:12530): Gtk-WARNING **: 15:45:43.655: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553940943697	Marionette	INFO	Listening on port 40927
+1553940943753	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12264, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12264, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553941108012	Marionette	INFO	Stopped listening on port 40927
+1553941112022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qjvenuMvyfum"
+
+(firefox:13006): Gtk-WARNING **: 15:48:32.060: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:13006): Gtk-WARNING **: 15:48:32.060: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:13006): Gtk-WARNING **: 15:48:32.065: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:13006): Gtk-WARNING **: 15:48:32.065: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:13006): Gtk-WARNING **: 15:48:32.065: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:13006): Gtk-WARNING **: 15:48:32.066: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941112457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553941112457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553941112457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:13168): Gtk-WARNING **: 15:48:34.063: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:13168): Gtk-WARNING **: 15:48:34.063: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:13168): Gtk-WARNING **: 15:48:34.069: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13168): Gtk-WARNING **: 15:48:34.069: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13168): Gtk-WARNING **: 15:48:34.069: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:13168): Gtk-WARNING **: 15:48:34.070: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:13191): Gtk-WARNING **: 15:48:34.196: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:13191): Gtk-WARNING **: 15:48:34.196: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:13191): Gtk-WARNING **: 15:48:34.202: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13191): Gtk-WARNING **: 15:48:34.202: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13191): Gtk-WARNING **: 15:48:34.203: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:13191): Gtk-WARNING **: 15:48:34.203: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941116027	Marionette	INFO	Listening on port 36745
+1553941116044	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13266): Gtk-WARNING **: 15:48:36.121: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:13266): Gtk-WARNING **: 15:48:36.121: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:13266): Gtk-WARNING **: 15:48:36.130: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13266): Gtk-WARNING **: 15:48:36.130: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13266): Gtk-WARNING **: 15:48:36.130: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:13266): Gtk-WARNING **: 15:48:36.130: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+[Parent 13006, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13006, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553941149111	Marionette	INFO	Stopped listening on port 36745
+[Parent 10149, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 10149, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553941189227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XH1SPOxhzAsl"
+
+(firefox:13529): Gtk-WARNING **: 15:49:49.264: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:13529): Gtk-WARNING **: 15:49:49.264: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:13529): Gtk-WARNING **: 15:49:49.270: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:13529): Gtk-WARNING **: 15:49:49.270: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:13529): Gtk-WARNING **: 15:49:49.270: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:13529): Gtk-WARNING **: 15:49:49.270: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941189505	Marionette	INFO	Stopped listening on port 44595
+1553941189547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553941189547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553941189547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:13702): Gtk-WARNING **: 15:50:00.774: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:13702): Gtk-WARNING **: 15:50:00.774: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:13702): Gtk-WARNING **: 15:50:00.779: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13702): Gtk-WARNING **: 15:50:00.779: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13702): Gtk-WARNING **: 15:50:00.779: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:13702): Gtk-WARNING **: 15:50:00.780: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:13724): Gtk-WARNING **: 15:50:00.890: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:13724): Gtk-WARNING **: 15:50:00.890: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:13724): Gtk-WARNING **: 15:50:00.896: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13724): Gtk-WARNING **: 15:50:00.896: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13724): Gtk-WARNING **: 15:50:00.896: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:13724): Gtk-WARNING **: 15:50:00.897: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941201558	Marionette	INFO	Listening on port 46323
+1553941201590	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13807): Gtk-WARNING **: 15:50:01.822: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:13807): Gtk-WARNING **: 15:50:01.822: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:13807): Gtk-WARNING **: 15:50:01.828: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13807): Gtk-WARNING **: 15:50:01.828: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:13807): Gtk-WARNING **: 15:50:01.828: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:13807): Gtk-WARNING **: 15:50:01.828: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+[Parent 13529, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13529, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553941256400	Marionette	INFO	Stopped listening on port 46323
+1553941258842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n2Y4O3M12MqG"
+
+(firefox:13886): Gtk-WARNING **: 15:50:58.879: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:13886): Gtk-WARNING **: 15:50:58.879: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:13886): Gtk-WARNING **: 15:50:58.884: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:13886): Gtk-WARNING **: 15:50:58.884: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:13886): Gtk-WARNING **: 15:50:58.884: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:13886): Gtk-WARNING **: 15:50:58.885: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941259164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553941259165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553941259165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:14026): Gtk-WARNING **: 15:51:01.096: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:14026): Gtk-WARNING **: 15:51:01.096: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:14026): Gtk-WARNING **: 15:51:01.102: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14026): Gtk-WARNING **: 15:51:01.102: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14026): Gtk-WARNING **: 15:51:01.102: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:14026): Gtk-WARNING **: 15:51:01.103: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:14047): Gtk-WARNING **: 15:51:01.216: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:14047): Gtk-WARNING **: 15:51:01.217: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:14047): Gtk-WARNING **: 15:51:01.222: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14047): Gtk-WARNING **: 15:51:01.222: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14047): Gtk-WARNING **: 15:51:01.222: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:14047): Gtk-WARNING **: 15:51:01.223: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941262003	Marionette	INFO	Listening on port 43803
+1553941262056	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14125): Gtk-WARNING **: 15:51:02.117: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:14125): Gtk-WARNING **: 15:51:02.117: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:14125): Gtk-WARNING **: 15:51:02.122: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14125): Gtk-WARNING **: 15:51:02.122: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14125): Gtk-WARNING **: 15:51:02.122: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:14125): Gtk-WARNING **: 15:51:02.123: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+[Parent 13886, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 13886, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553941298796	Marionette	INFO	Stopped listening on port 43803
+1553941298886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wFmQ0U8zwBOE"
+
+(firefox:14241): Gtk-WARNING **: 15:51:38.922: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:14241): Gtk-WARNING **: 15:51:38.922: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:14241): Gtk-WARNING **: 15:51:38.927: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:14241): Gtk-WARNING **: 15:51:38.927: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:14241): Gtk-WARNING **: 15:51:38.927: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:14241): Gtk-WARNING **: 15:51:38.928: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941299203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553941299203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553941299203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:14384): Gtk-WARNING **: 15:51:41.290: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:14384): Gtk-WARNING **: 15:51:41.290: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:14384): Gtk-WARNING **: 15:51:41.299: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14384): Gtk-WARNING **: 15:51:41.299: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14384): Gtk-WARNING **: 15:51:41.299: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:14384): Gtk-WARNING **: 15:51:41.300: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:14406): Gtk-WARNING **: 15:51:41.431: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:14406): Gtk-WARNING **: 15:51:41.431: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:14406): Gtk-WARNING **: 15:51:41.440: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14406): Gtk-WARNING **: 15:51:41.440: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14406): Gtk-WARNING **: 15:51:41.440: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:14406): Gtk-WARNING **: 15:51:41.441: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941302315	Marionette	INFO	Listening on port 44005
+
+(/usr/lib/firefox/firefox:14481): Gtk-WARNING **: 15:51:42.395: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:14481): Gtk-WARNING **: 15:51:42.395: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:14481): Gtk-WARNING **: 15:51:42.401: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14481): Gtk-WARNING **: 15:51:42.401: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14481): Gtk-WARNING **: 15:51:42.401: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:14481): Gtk-WARNING **: 15:51:42.401: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941302410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553941613404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3d7o6ldCyhzF"
+
+(firefox:14690): Gtk-WARNING **: 15:56:53.440: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:14690): Gtk-WARNING **: 15:56:53.440: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:14690): Gtk-WARNING **: 15:56:53.445: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:14690): Gtk-WARNING **: 15:56:53.445: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:14690): Gtk-WARNING **: 15:56:53.445: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:14690): Gtk-WARNING **: 15:56:53.446: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941613718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553941613718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553941613718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:14836): Gtk-WARNING **: 15:56:55.247: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:14836): Gtk-WARNING **: 15:56:55.247: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:14836): Gtk-WARNING **: 15:56:55.253: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14836): Gtk-WARNING **: 15:56:55.253: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14836): Gtk-WARNING **: 15:56:55.253: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:14836): Gtk-WARNING **: 15:56:55.254: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:14857): Gtk-WARNING **: 15:56:55.361: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:14857): Gtk-WARNING **: 15:56:55.361: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:14857): Gtk-WARNING **: 15:56:55.367: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14857): Gtk-WARNING **: 15:56:55.367: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14857): Gtk-WARNING **: 15:56:55.367: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:14857): Gtk-WARNING **: 15:56:55.367: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:14934): Gtk-WARNING **: 15:56:56.393: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:14934): Gtk-WARNING **: 15:56:56.393: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+1553941616394	Marionette	INFO	Listening on port 32963
+
+(/usr/lib/firefox/firefox:14934): Gtk-WARNING **: 15:56:56.399: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14934): Gtk-WARNING **: 15:56:56.399: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:14934): Gtk-WARNING **: 15:56:56.399: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:14934): Gtk-WARNING **: 15:56:56.400: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941616439	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553941932460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CKDbtwMS3V8h"
+
+(firefox:15190): Gtk-WARNING **: 16:02:12.496: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:15190): Gtk-WARNING **: 16:02:12.496: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:15190): Gtk-WARNING **: 16:02:12.502: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:15190): Gtk-WARNING **: 16:02:12.502: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:15190): Gtk-WARNING **: 16:02:12.502: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:15190): Gtk-WARNING **: 16:02:12.502: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941932774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553941932774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553941932774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:15343): Gtk-WARNING **: 16:02:15.082: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:15343): Gtk-WARNING **: 16:02:15.082: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:15343): Gtk-WARNING **: 16:02:15.088: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15343): Gtk-WARNING **: 16:02:15.088: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15343): Gtk-WARNING **: 16:02:15.088: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:15343): Gtk-WARNING **: 16:02:15.088: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:15364): Gtk-WARNING **: 16:02:15.199: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:15364): Gtk-WARNING **: 16:02:15.199: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:15364): Gtk-WARNING **: 16:02:15.205: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15364): Gtk-WARNING **: 16:02:15.205: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15364): Gtk-WARNING **: 16:02:15.205: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:15364): Gtk-WARNING **: 16:02:15.205: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:15439): Gtk-WARNING **: 16:02:17.350: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:15439): Gtk-WARNING **: 16:02:17.350: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+1553941937353	Marionette	INFO	Listening on port 43979
+
+(/usr/lib/firefox/firefox:15439): Gtk-WARNING **: 16:02:17.356: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15439): Gtk-WARNING **: 16:02:17.356: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15439): Gtk-WARNING **: 16:02:17.356: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:15439): Gtk-WARNING **: 16:02:17.357: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1553941937463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+[Parent 14690, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1553941941121	Marionette	INFO	Stopped listening on port 43979
+1553941941276	Marionette	INFO	Stopped listening on port 32963
+1553941943575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sxDKj0J36puz"
+
+(firefox:15486): Gtk-WARNING **: 16:02:23.611: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:15486): Gtk-WARNING **: 16:02:23.611: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:15486): Gtk-WARNING **: 16:02:23.616: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:15486): Gtk-WARNING **: 16:02:23.616: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:15486): Gtk-WARNING **: 16:02:23.616: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:15486): Gtk-WARNING **: 16:02:23.617: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941943901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553941943901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553941943901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:15636): Gtk-WARNING **: 16:02:25.735: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:15636): Gtk-WARNING **: 16:02:25.735: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:15636): Gtk-WARNING **: 16:02:25.740: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15636): Gtk-WARNING **: 16:02:25.740: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15636): Gtk-WARNING **: 16:02:25.740: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:15636): Gtk-WARNING **: 16:02:25.741: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:15659): Gtk-WARNING **: 16:02:25.852: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:15659): Gtk-WARNING **: 16:02:25.852: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:15659): Gtk-WARNING **: 16:02:25.858: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15659): Gtk-WARNING **: 16:02:25.858: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15659): Gtk-WARNING **: 16:02:25.858: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:15659): Gtk-WARNING **: 16:02:25.859: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553941947272	Marionette	INFO	Listening on port 33925
+1553941947289	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15735): Gtk-WARNING **: 16:02:27.358: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:15735): Gtk-WARNING **: 16:02:27.358: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:15735): Gtk-WARNING **: 16:02:27.364: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15735): Gtk-WARNING **: 16:02:27.364: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:15735): Gtk-WARNING **: 16:02:27.364: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:15735): Gtk-WARNING **: 16:02:27.364: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+[Parent 15486, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 15486, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553942048492	Marionette	INFO	Stopped listening on port 33925
+1553942049386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vn2qOHUwWOjF"
+
+(firefox:15944): Gtk-WARNING **: 16:04:09.422: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:15944): Gtk-WARNING **: 16:04:09.422: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:15944): Gtk-WARNING **: 16:04:09.428: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:15944): Gtk-WARNING **: 16:04:09.428: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:15944): Gtk-WARNING **: 16:04:09.428: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:15944): Gtk-WARNING **: 16:04:09.428: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553942049703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553942049703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553942049703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:16091): Gtk-WARNING **: 16:04:11.547: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:16091): Gtk-WARNING **: 16:04:11.547: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:16091): Gtk-WARNING **: 16:04:11.552: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:16091): Gtk-WARNING **: 16:04:11.552: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:16091): Gtk-WARNING **: 16:04:11.552: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:16091): Gtk-WARNING **: 16:04:11.553: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:16114): Gtk-WARNING **: 16:04:11.670: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:16114): Gtk-WARNING **: 16:04:11.670: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:16114): Gtk-WARNING **: 16:04:11.676: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:16114): Gtk-WARNING **: 16:04:11.676: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:16114): Gtk-WARNING **: 16:04:11.676: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:16114): Gtk-WARNING **: 16:04:11.676: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:16193): Gtk-WARNING **: 16:04:13.101: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:16193): Gtk-WARNING **: 16:04:13.101: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:16193): Gtk-WARNING **: 16:04:13.106: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:16193): Gtk-WARNING **: 16:04:13.106: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:16193): Gtk-WARNING **: 16:04:13.106: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+1553942053107	Marionette	INFO	Listening on port 40193
+
+(/usr/lib/firefox/firefox:16193): Gtk-WARNING **: 16:04:13.107: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553942053201	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553957088579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sYPb0wWskReD"
+
+(firefox:19707): Gtk-WARNING **: 20:14:49.798: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:19707): Gtk-WARNING **: 20:14:49.798: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:19707): Gtk-WARNING **: 20:14:49.804: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:19707): Gtk-WARNING **: 20:14:49.804: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:19707): Gtk-WARNING **: 20:14:49.804: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:19707): Gtk-WARNING **: 20:14:49.804: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553957092868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553957092868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553957092868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:19911): Gtk-WARNING **: 20:14:56.035: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:19911): Gtk-WARNING **: 20:14:56.035: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:19911): Gtk-WARNING **: 20:14:56.040: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19911): Gtk-WARNING **: 20:14:56.040: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19911): Gtk-WARNING **: 20:14:56.040: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:19911): Gtk-WARNING **: 20:14:56.041: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:19946): Gtk-WARNING **: 20:14:56.320: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:19946): Gtk-WARNING **: 20:14:56.321: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:19946): Gtk-WARNING **: 20:14:56.326: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19946): Gtk-WARNING **: 20:14:56.326: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:19946): Gtk-WARNING **: 20:14:56.326: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:19946): Gtk-WARNING **: 20:14:56.326: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:20017): Gtk-WARNING **: 20:14:58.453: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:20017): Gtk-WARNING **: 20:14:58.453: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:20017): Gtk-WARNING **: 20:14:58.458: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20017): Gtk-WARNING **: 20:14:58.458: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20017): Gtk-WARNING **: 20:14:58.458: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:20017): Gtk-WARNING **: 20:14:58.459: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553957099170	Marionette	INFO	Listening on port 45355
+1553957099362	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553957342425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.02kTOTora8Im"
+
+(firefox:20117): Gtk-WARNING **: 20:19:02.514: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:20117): Gtk-WARNING **: 20:19:02.514: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:20117): Gtk-WARNING **: 20:19:02.520: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:20117): Gtk-WARNING **: 20:19:02.520: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:20117): Gtk-WARNING **: 20:19:02.520: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:20117): Gtk-WARNING **: 20:19:02.521: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553957342790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553957342790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553957342790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:20282): Gtk-WARNING **: 20:19:04.274: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:20282): Gtk-WARNING **: 20:19:04.274: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:20282): Gtk-WARNING **: 20:19:04.280: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20282): Gtk-WARNING **: 20:19:04.280: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20282): Gtk-WARNING **: 20:19:04.280: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:20282): Gtk-WARNING **: 20:19:04.280: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:20305): Gtk-WARNING **: 20:19:04.390: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:20305): Gtk-WARNING **: 20:19:04.390: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:20305): Gtk-WARNING **: 20:19:04.395: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20305): Gtk-WARNING **: 20:19:04.396: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20305): Gtk-WARNING **: 20:19:04.396: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:20305): Gtk-WARNING **: 20:19:04.396: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553957345184	Marionette	INFO	Listening on port 46645
+1553957345237	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20381): Gtk-WARNING **: 20:19:05.294: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:20381): Gtk-WARNING **: 20:19:05.294: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:20381): Gtk-WARNING **: 20:19:05.300: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20381): Gtk-WARNING **: 20:19:05.300: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:20381): Gtk-WARNING **: 20:19:05.300: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:20381): Gtk-WARNING **: 20:19:05.301: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553959375696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1EqmrrGoqSX4"
+
+(firefox:20987): Gtk-WARNING **: 20:52:55.731: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:20987): Gtk-WARNING **: 20:52:55.731: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:20987): Gtk-WARNING **: 20:52:55.737: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:20987): Gtk-WARNING **: 20:52:55.737: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:20987): Gtk-WARNING **: 20:52:55.737: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:20987): Gtk-WARNING **: 20:52:55.737: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553959376008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553959376009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553959376009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:21143): Gtk-WARNING **: 20:52:57.506: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:21143): Gtk-WARNING **: 20:52:57.506: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:21143): Gtk-WARNING **: 20:52:57.511: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21143): Gtk-WARNING **: 20:52:57.511: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21143): Gtk-WARNING **: 20:52:57.511: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:21143): Gtk-WARNING **: 20:52:57.512: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:21164): Gtk-WARNING **: 20:52:57.644: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:21164): Gtk-WARNING **: 20:52:57.644: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:21164): Gtk-WARNING **: 20:52:57.650: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21164): Gtk-WARNING **: 20:52:57.650: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21164): Gtk-WARNING **: 20:52:57.650: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:21164): Gtk-WARNING **: 20:52:57.650: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:21243): Gtk-WARNING **: 20:52:58.813: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:21243): Gtk-WARNING **: 20:52:58.813: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+1553959378814	Marionette	INFO	Listening on port 38167
+
+(/usr/lib/firefox/firefox:21243): Gtk-WARNING **: 20:52:58.835: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21243): Gtk-WARNING **: 20:52:58.835: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21243): Gtk-WARNING **: 20:52:58.835: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:21243): Gtk-WARNING **: 20:52:58.836: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553959378913	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553959488905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2JJ4H9U55kEL"
+
+(firefox:21325): Gtk-WARNING **: 20:54:48.945: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:21325): Gtk-WARNING **: 20:54:48.945: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:21325): Gtk-WARNING **: 20:54:48.951: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:21325): Gtk-WARNING **: 20:54:48.951: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:21325): Gtk-WARNING **: 20:54:48.951: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:21325): Gtk-WARNING **: 20:54:48.951: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553959489227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553959489227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553959489227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:21478): Gtk-WARNING **: 20:54:51.858: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:21478): Gtk-WARNING **: 20:54:51.858: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:21478): Gtk-WARNING **: 20:54:51.864: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21478): Gtk-WARNING **: 20:54:51.864: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21478): Gtk-WARNING **: 20:54:51.864: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:21478): Gtk-WARNING **: 20:54:51.864: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:21501): Gtk-WARNING **: 20:54:51.999: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:21501): Gtk-WARNING **: 20:54:51.999: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:21501): Gtk-WARNING **: 20:54:52.009: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21501): Gtk-WARNING **: 20:54:52.009: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21501): Gtk-WARNING **: 20:54:52.009: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:21501): Gtk-WARNING **: 20:54:52.010: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553959492816	Marionette	INFO	Listening on port 38033
+1553959492824	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21579): Gtk-WARNING **: 20:54:52.939: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:21579): Gtk-WARNING **: 20:54:52.939: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:21579): Gtk-WARNING **: 20:54:52.945: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21579): Gtk-WARNING **: 20:54:52.945: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21579): Gtk-WARNING **: 20:54:52.945: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:21579): Gtk-WARNING **: 20:54:52.946: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553960000319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7BFxaSxLzfAs"
+
+(firefox:21746): Gtk-WARNING **: 21:03:20.355: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:21746): Gtk-WARNING **: 21:03:20.355: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:21746): Gtk-WARNING **: 21:03:20.361: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:21746): Gtk-WARNING **: 21:03:20.361: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:21746): Gtk-WARNING **: 21:03:20.361: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:21746): Gtk-WARNING **: 21:03:20.361: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553960000632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553960000632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553960000632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:21906): Gtk-WARNING **: 21:03:22.233: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:21906): Gtk-WARNING **: 21:03:22.233: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:21906): Gtk-WARNING **: 21:03:22.238: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21906): Gtk-WARNING **: 21:03:22.238: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21906): Gtk-WARNING **: 21:03:22.238: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:21906): Gtk-WARNING **: 21:03:22.239: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:21928): Gtk-WARNING **: 21:03:22.380: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:21928): Gtk-WARNING **: 21:03:22.380: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:21928): Gtk-WARNING **: 21:03:22.389: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21928): Gtk-WARNING **: 21:03:22.389: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:21928): Gtk-WARNING **: 21:03:22.389: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:21928): Gtk-WARNING **: 21:03:22.390: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553960003316	Marionette	INFO	Listening on port 45673
+1553960003334	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22001): Gtk-WARNING **: 21:03:23.413: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:22001): Gtk-WARNING **: 21:03:23.413: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:22001): Gtk-WARNING **: 21:03:23.419: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:22001): Gtk-WARNING **: 21:03:23.419: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:22001): Gtk-WARNING **: 21:03:23.419: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:22001): Gtk-WARNING **: 21:03:23.419: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1553960049924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FwIR1E3U8oO1"
+
+(firefox:22070): Gtk-WARNING **: 21:04:09.962: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(firefox:22070): Gtk-WARNING **: 21:04:09.962: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(firefox:22070): Gtk-WARNING **: 21:04:09.967: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(firefox:22070): Gtk-WARNING **: 21:04:09.967: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(firefox:22070): Gtk-WARNING **: 21:04:09.967: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(firefox:22070): Gtk-WARNING **: 21:04:09.968: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553960050244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1553960050244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1553960050244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:22224): Gtk-WARNING **: 21:04:12.131: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:22224): Gtk-WARNING **: 21:04:12.131: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:22224): Gtk-WARNING **: 21:04:12.142: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:22224): Gtk-WARNING **: 21:04:12.142: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:22224): Gtk-WARNING **: 21:04:12.143: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:22224): Gtk-WARNING **: 21:04:12.143: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+
+(/usr/lib/firefox/firefox:22247): Gtk-WARNING **: 21:04:12.283: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:22247): Gtk-WARNING **: 21:04:12.283: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:22247): Gtk-WARNING **: 21:04:12.289: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:22247): Gtk-WARNING **: 21:04:12.290: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:22247): Gtk-WARNING **: 21:04:12.290: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:22247): Gtk-WARNING **: 21:04:12.290: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553960053149	Marionette	INFO	Listening on port 35121
+
+(/usr/lib/firefox/firefox:22324): Gtk-WARNING **: 21:04:13.220: Theme parsing error: gtk.css:7852:22: Expected '(' after 'url'
+
+(/usr/lib/firefox/firefox:22324): Gtk-WARNING **: 21:04:13.220: Theme parsing error: gtk.css:7852:147: Invalid character in string. Must be escaped.
+
+(/usr/lib/firefox/firefox:22324): Gtk-WARNING **: 21:04:13.226: Theme parsing error: gtk.css:11634:3: '/*' in comment block
+
+(/usr/lib/firefox/firefox:22324): Gtk-WARNING **: 21:04:13.226: Theme parsing error: gtk.css:11740:2: '/*' in comment block
+
+(/usr/lib/firefox/firefox:22324): Gtk-WARNING **: 21:04:13.226: Theme parsing error: gtk.css:11785:26: 'text-shadow' is not a valid color name
+
+(/usr/lib/firefox/firefox:22324): Gtk-WARNING **: 21:04:13.226: Theme parsing error: gtk.css:12045:14: 'ffffff' is not a valid color name
+1553960053245	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 21746, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21746, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 22070, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 22070, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553960302433	Marionette	INFO	Stopped listening on port 45673
+1553960302493	Marionette	INFO	Stopped listening on port 35121
+[Parent 19707, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 19707, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 20117, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20987, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 20987, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21325, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 21325, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-wKbTTe/firefox-66.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1553960304398	Marionette	INFO	Stopped listening on port 45355
+1553960305668	Marionette	INFO	Stopped listening on port 46645
+1553960305751	Marionette	INFO	Stopped listening on port 38167
+1553960305948	Marionette	INFO	Stopped listening on port 38033
